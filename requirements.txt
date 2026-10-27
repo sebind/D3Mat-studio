@@ -1,0 +1,10 @@
+# Base dependencies for D3Mat MLIP Studio runtime (Streamlit Cloud & GitHub Codespaces ready)
+streamlit>=1.36
+pandas>=2.0
+numpy>=1.24
+ase>=3.22
+py3Dmol>=2.0
+huggingface_hub>=0.23
+torch
+mace-torch
+pybind11

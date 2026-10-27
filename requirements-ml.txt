@@ -1,0 +1,9 @@
+# Optional / Heavy MLIP Foundation Backends (install locally or on GPU servers)
+torch
+mace-torch
+fairchem-core>=2.1.0
+orb-models
+sevenn
+mattersim
+torch-dftd
+pybind11
